@@ -1,12 +1,11 @@
 # Rock Paper Scissors App
 
 ## Description
-Built a Github repo with a team.
-Upstream Repos
-Team Repo 1
-Team Repo 2
-Start with one and then team will fork the repo, so that the project manager’s repo is cloned into the teammates repo. Teammates repo will be named origin, and project manager’s repo will be called upstream.
-Upstream is where the code will be; project manager will build repo with basic
+* Build a Github repo with a team.
+* Upstream Repos
+* Have teammates fork project managers Repo
+* Project manager is **upstream**
+* Teammates is **origin**
 
 ![photo of rock, paper, scissor](https://i.imgur.com/ke8fU16.png)
 
@@ -14,19 +13,19 @@ Upstream is where the code will be; project manager will build repo with basic
 Create the pages:
 
 [x] index.html
-[] about.html page that talks about it
-[] play.html
+[x] about.html page that talks about it
+[x] play.html
 
 ## Requirements:
-* npm
+[x] npm
 * HTML5 boilerplate
 * lightbox
 * Twitter bootstrap
-* [normalize.css](https://necolas.github.io/normalize.css/)
+* [x] [normalize.css](https://necolas.github.io/normalize.css/)
 * Jquery
 * Google Fonts
-* `package.json`
-* `.gitignore`
+[x] `package.json`
+[x] `.gitignore`
     - **node_modules**
     -
 _Notes:_
@@ -36,7 +35,7 @@ _Notes:_
 [x] **README.md** written in markdown
 []Inside css folder, creat style.css
 []Inside js folder, app.js
-[]Create github repo.
+[x]Create github repo.
 
 
 
@@ -44,5 +43,6 @@ _Notes:_
     * Adds License and README.md
 2. Project manager emails team the repo URL
 3. Team forks repo
+
 
 
