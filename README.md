@@ -13,7 +13,7 @@ Upstream is where the code will be; project manager will build repo with basic
 ## Instructions
 Create the pages:
 
-[] index.html
+[x] index.html
 [] about.html page that talks about it
 [] play.html
 
@@ -28,7 +28,7 @@ Create the pages:
 * `package.json`
 * `.gitignore`
     - **node_modules**
-    - 
+    -
 _Notes:_
 
 []Create a folder named **rps**
@@ -36,7 +36,7 @@ _Notes:_
 [x] **README.md** written in markdown
 []Inside css folder, creat style.css
 []Inside js folder, app.js
-[]Create github repo. 
+[]Create github repo.
 
 
 
