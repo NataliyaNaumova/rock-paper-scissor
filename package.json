@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/NataliyaNaumova/rock-paper-scissor#readme",
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "normalize.css": "^4.2.0"
   }
 }
